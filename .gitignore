@@ -1,0 +1,10 @@
+venv/
+*.pyd
+*.dll
+*.lib
+*.so
+*.exe
+*.zip
+*.tar.gz
+*.whl
+__pycache__/
